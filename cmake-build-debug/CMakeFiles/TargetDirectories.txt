@@ -1,0 +1,3 @@
+/Users/albertopulcini/Desktop/UNI/2A2S/SO2/HW1/bozza_finger/cmake-build-debug/CMakeFiles/bozza_finger.dir
+/Users/albertopulcini/Desktop/UNI/2A2S/SO2/HW1/bozza_finger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/albertopulcini/Desktop/UNI/2A2S/SO2/HW1/bozza_finger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
